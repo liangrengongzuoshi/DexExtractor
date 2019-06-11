@@ -1,6 +1,8 @@
 # DexExtractor
 Android dex file extractor, anti-bangbang (Bangcle)
 
+[ReadMe](https://juejin.im/post/5a433b2af265da431c7094d4)
+
 ## Usage
 Put libdvm.so on the emulator `/system/lib` or download the pre-setup system image at  [Google Drive](https://drive.google.com/file/d/0B4IvHmkRqgS4Nlh5WmVhRU9aNlE/view?usp=sharing) (or Download For Chinese User  [Baidu Yun](http://pan.baidu.com/s/1jG3WQMU))
   md5：6395c2f1451dbbed027d7293ab39a6e7
